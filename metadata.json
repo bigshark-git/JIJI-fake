@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MarketPlace GH",
+  "description": "A robust, Ghanaian-focused online marketplace for buying and selling anything from vehicles to property and electronics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
